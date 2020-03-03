@@ -5,4 +5,3 @@ MY RESOLUSI
 - belajar fundamental python
 - membuat latihan atau studi kasus
 - belajar dasar-dasar android 
-- belajar dasar-dasar artificial intelligence
